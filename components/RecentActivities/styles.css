@@ -1,0 +1,26 @@
+.recent-activities-container {
+  margin-top: 40px;
+  background-color: transparent;
+}
+
+.activity-user-name {
+  text-decoration: none;
+  color: black;
+}
+
+.activity-user-name:hover {
+  text-decoration: underline;
+  color: #1876d2;
+}
+
+.activity-thumbnail {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 20%;
+  height: auto;
+}
+
+.activity-thumbnail:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}

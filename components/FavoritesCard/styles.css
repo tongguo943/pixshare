@@ -1,0 +1,9 @@
+.favoritescard {
+  width: 100%;
+  height: 90px;
+  border-radius: 5px;
+}
+
+.link {
+  text-decoration: none;
+}

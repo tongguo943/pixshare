@@ -1,0 +1,8 @@
+.favorites-container {
+  background-color: transparent;
+  height: 100%;
+}
+
+.favorite-photos:hover {
+  cursor: pointer;
+}

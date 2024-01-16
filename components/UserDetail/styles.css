@@ -1,0 +1,16 @@
+.user-detail-container {
+  margin-top: 40px;
+  background-color: transparent;
+}
+
+.user-detail-heading {
+  display: inline-block;
+  width: 20%;
+  overflow: auto;
+}
+
+.user-detail-body {
+  display: inline-block;
+  width: 80%;
+  overflow: auto;
+}

@@ -1,0 +1,37 @@
+/**
+ * CSS for the PixShare main page.
+ *
+ * Since CSS uses a global name space for classes we should use class names
+ * starting with "photoshare-main-" here.
+ */
+ .photoshare-main-topbar-buffer {
+  margin-top: 70px;
+}
+
+.photoshare-main-grid-item {
+  height: calc(100vh - 85px);
+  overflow-y: scroll;
+  padding-top: 0;
+  padding-bottom: 8px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.photoshare-left-grid-item {
+  height: calc(100vh - 85px);
+  overflow-y: scroll;
+  padding: 8px;
+  padding-top: 0;
+}
+
+.photoshare-right-grid-item {
+  height: calc(100vh - 85px);
+  overflow-y: scroll;
+  padding: 8px;
+  padding-top: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
